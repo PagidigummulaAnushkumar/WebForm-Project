@@ -5,6 +5,10 @@ Description : WebForm is built by  HTML/JavaScript in NetBeans IDE  and fetched 
 Benfits of JsonDB : 
 JsonDB is used to store the backend of the applications like Web - app , mobile-app, etc 
 use cases like RDBMS , Document DB , Key - value pair DB
+Minimum development cost 
+Minimum time to market 
+Maximizes  data processing performance 
+
 
 Used for real-time applications
 
